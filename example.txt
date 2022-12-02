@@ -1,3 +1,4 @@
 This is an example file for the repository.
 
 And this change is from the food branch.
+And a change from the hobbies branch.
